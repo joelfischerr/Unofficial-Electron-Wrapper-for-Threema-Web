@@ -1,1 +1,1 @@
-# electron-wrapper-for-threema-web
+# Unofficial electron wrapper for Threema Web
